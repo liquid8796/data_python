@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>42e60228-137a-4b93-ae26-87c78c33f483</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Draft.py</StartupFile>
+    <StartupFile>BinSearch.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
