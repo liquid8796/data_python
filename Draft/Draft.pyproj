@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>42e60228-137a-4b93-ae26-87c78c33f483</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BinSearch.py</StartupFile>
+    <StartupFile>tool.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BinSearch.py" />
-    <Compile Include="Draft.py">
+    <Compile Include="generateArr.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sort.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tool.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
