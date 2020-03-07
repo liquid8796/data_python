@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BinSearch.py" />
+    <Compile Include="crackZip.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Draft.py">
       <SubType>Code</SubType>
     </Compile>
